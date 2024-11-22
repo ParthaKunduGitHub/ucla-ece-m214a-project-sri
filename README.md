@@ -1,5 +1,5 @@
 # ucla-ece-m214a-project-sri
-Project 1: Random Graphs and Random Walks
+Project : Noise Robust Speaker Region Identification 
 
 ## Prerequisites
 
