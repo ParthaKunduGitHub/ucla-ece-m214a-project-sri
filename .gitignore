@@ -159,11 +159,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# dataFiles/
-# images/
+
+images/
 *.docx
 .DS_Store
 notebooks/214A_Computer_Assignment_5.ipynb
 project_data/test_clean
 project_data/test_noisy
 project_data/train
+poroject_data/current_features.csv
+.uclavenv
