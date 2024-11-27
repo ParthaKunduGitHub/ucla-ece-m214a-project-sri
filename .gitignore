@@ -169,3 +169,5 @@ project_data/test_noisy
 project_data/train
 poroject_data/current_features.csv
 .uclavenv
+zip_files/
+dataFrame/
