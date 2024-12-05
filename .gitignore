@@ -164,6 +164,7 @@ images/
 *.docx
 .DS_Store
 notebooks/214A_Computer_Assignment_5.ipynb
+notebooks/extra.ipynb
 project_data/test_clean
 project_data/test_noisy
 project_data/train
