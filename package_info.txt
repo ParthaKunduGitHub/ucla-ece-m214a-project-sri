@@ -47,7 +47,7 @@ Author-email:
 License: MPL-2.0 AND MIT
 Location: /Users/parthakundu/.pyenv/versions/3.10.12/lib/python3.10/site-packages
 Requires: 
-Required-by: audeer, huggingface-hub, shap, speechbrain
+Required-by: audeer, huggingface-hub, noisereduce, shap, speechbrain, transformers
 
 ========================================
 Command: pip show pandas
@@ -1433,7 +1433,7 @@ License: License agreement for matplotlib versions 1.3.0 and later
         Agreement.
 Location: /Users/parthakundu/.pyenv/versions/3.10.12/lib/python3.10/site-packages
 Requires: contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pillow, pyparsing, python-dateutil
-Required-by: seaborn
+Required-by: noisereduce, seaborn
 
 ========================================
 Command: pip show opensmile
@@ -1655,6 +1655,19 @@ Author-email: Michael Waskom <mwaskom@gmail.com>
 License: 
 Location: /Users/parthakundu/.pyenv/versions/3.10.12/lib/python3.10/site-packages
 Requires: matplotlib, numpy, pandas
+Required-by: 
+
+========================================
+Command: pip show transformers
+Name: transformers
+Version: 4.47.0
+Summary: State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow
+Home-page: https://github.com/huggingface/transformers
+Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)
+Author-email: transformers@huggingface.co
+License: Apache 2.0 License
+Location: /Users/parthakundu/.pyenv/versions/3.10.12/lib/python3.10/site-packages
+Requires: filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm
 Required-by: 
 
 ========================================
